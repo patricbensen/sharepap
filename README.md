@@ -6,4 +6,4 @@ I am working on a platform that will allow users to share article to my platform
 
 <a href="http://reviewstabloid.com" target="_blank" rel="dofollow">Reviews Tabloid</a> is our main blog which will be a subsidiary of the Sharepap. 
 
-Contribute in any way possible 
+You can contribute in any way possible both code and finances through this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FZXWAFHYT4F52">link</a>.
